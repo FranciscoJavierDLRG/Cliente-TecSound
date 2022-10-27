@@ -1,27 +1,17 @@
 {
   "name": "cliente-tecmusic",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "^12.3.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.12",
-    "eslint": "8.25.0",
-    "eslint-config-next": "12.3.1",
-    "postcss": "^8.4.18",
-    "tailwindcss": "^3.2.0"
-  },
+  "version": "1.0.0",
   "description": "��#\u0000 \u0000C\u0000l\u0000i\u0000e\u0000n\u0000t\u0000e\u0000-\u0000T\u0000e\u0000c\u0000S\u0000o\u0000u\u0000n\u0000d\u0000\r\u0000 \u0000",
   "main": "index.js",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "tailwind": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FranciscoJavierDLRG/Cliente-TecSound.git"
@@ -31,6 +21,5 @@
   "bugs": {
     "url": "https://github.com/FranciscoJavierDLRG/Cliente-TecSound/issues"
   },
-  "homepage": "https://github.com/FranciscoJavierDLRG/Cliente-TecSound#readme",
-  "keywords": []
+  "homepage": "https://github.com/FranciscoJavierDLRG/Cliente-TecSound#readme"
 }
